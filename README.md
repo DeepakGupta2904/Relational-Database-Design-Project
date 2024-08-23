@@ -2,6 +2,8 @@
 
 In this project, I am work on converting a relational design that enlists various users, their roles, user accounts and their statuses into different tables in SQL Server and insert data into them. Having at least two rows in each of the tables, you have to ensure that you have created respective foreign keys.
 
+Tools:- MS SQL Server
+
 Tasks To Be Performed:-
 
 1. Define relations/attributes 
