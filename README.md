@@ -14,3 +14,4 @@ Location:- https://github.com/Microsoft/sql-server-samples/releases/tag/adventur
 
 File Name: AdventureWorks2012.bak
 
+Adventureworks is s sample database shipped with SQL Server and it can be downloaded from the GitHub site. AdventureWorks has replaced Northwind and Pubs sample databases that were available in SQL Server in 2005. Microsoft keeps updating the sample database as it releases new versions.
