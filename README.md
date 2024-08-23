@@ -7,3 +7,10 @@ Tasks To Be Performed:-
 1. Define relations/attributes 
 2. Define primary keys
 3. Create foreign keys
+
+Download the AdventureWorks database from the following location and restore it in your server:
+
+Location:- https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks
+
+File Name: AdventureWorks2012.bak
+
