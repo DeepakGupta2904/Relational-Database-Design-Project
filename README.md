@@ -1,14 +1,32 @@
 # Relational-Database-Design-Project
 
-In this project, I am work on converting a relational design that enlists various users, their roles, user accounts and their statuses into different tables in SQL Server and insert data into them. Having at least two rows in each of the tables, you have to ensure that you have created respective foreign keys.
+Overview:- This project involves converting a relational design into a fully implemented SQL database using SQL Server. The focus is on creating tables based on the relational design, defining relationships between the tables, and enforcing data integrity through primary and foreign keys.
 
-Tools:- MS SQL Server
+Key Tasks:-
 
-Tasks To Be Performed:-
+1. Defining the Schema:-
 
-1. Define relations/attributes 
-2. Define primary keys
-3. Create foreign keys
+A. Established relations and attributes for users, roles, user accounts, and statuses.
+
+B. Defined primary keys for each table to uniquely identify records.
+
+2. Creating Relationships:- Implemented foreign keys to establish relationships between the tables, ensuring referential integrity.
+
+3. Data Insertion:- Inserted at least two rows of data into each table, populating the database with sample records.
+
+4. Data Deletion:- Deleted all data from the tables as part of the data management process.
+
+Technologies Used:-
+
+1. SQL Server
+2. SQL Server Management Studio (SSMS)
+
+Skills Demonstrated:-
+
+1. Relational Database Design
+2. SQL Schema Creation
+3. Data Integrity and Relationships
+4. SQL Data Manipulation (INSERT, DELETE)
 
 Download the AdventureWorks database from the following location and restore it in your server:
 
